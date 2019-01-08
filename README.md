@@ -28,5 +28,5 @@ demo图片如下
 
 
 
-[完整框架详情见](https://github.com/Jay-YaoJie/kotlin-adapter)
+[完整框架详情见](https://github.com/Jay-YaoJie/kotlin-adapter) https://github.com/Jay-YaoJie/kotlin-adapter
  
