@@ -29,5 +29,5 @@ RecyclerView，适配器, 支持多种视图样式, 支持吸顶、侧滑删除�
 
 
 
-[完整框架详情见](https://github.com/Jay-YaoJie/kotlin-adapter) https://github.com/Jay-YaoJie/kotlin-adapter
+# [完整框架详情见](https://github.com/Jay-YaoJie/kotlin-adapter) https://github.com/Jay-YaoJie/kotlin-adapter
  
